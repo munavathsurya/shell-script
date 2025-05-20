@@ -1,4 +1,4 @@
 #!/bin/bash
 read -s -p"enter your password:" password
-echo
+read password 
 echo "password entered is $password."
