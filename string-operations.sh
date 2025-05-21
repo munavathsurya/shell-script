@@ -12,4 +12,5 @@ fi
 str3="$str1 $str2"
 echo "concentenstedd string: $str3"
 length=${#str1}
-echo "length of str1 is $length"
+echo "length of str1 is $length";
+fi
